@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dylanhester.github.io/dylan-hester//sitemap.xml
+Sitemap: https://DylanHester.github.io/dylan-hester//sitemap.xml
