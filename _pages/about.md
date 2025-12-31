@@ -6,11 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: dylan_hester.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Charlotte, NC 28208</p>
-    <p><a href="https://dylanhester.com/" target="_blank">Visit Site</a></p>
+    <p>Charlotte, NC 28208</p><br />
+    <p><a href="https://dylanhester.com/" target="_blank">Visit Site</a></p><br />
     <p><a href="mailto:dylanhester@dylanhester.com">Email Me!</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
